@@ -4,6 +4,8 @@
 1. 下載到電腦，解壓縮
 2. 更改data.json讓課表正確
 3. 執行release.exe檔，會跳出CMD是正常的，可以查看目前情況
+4. login google account
+5. 享受自動化上課
 
 #
 ## json.data說明
